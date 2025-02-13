@@ -232,5 +232,3 @@ traffic:
    - Enable CPU throttling for cost optimization
    - Use gen2 execution environment
    - Configure proper JVM options for containerized environments
-
-Would you like me to explain any specific section in more detail or provide additional configuration examples?
